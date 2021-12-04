@@ -1,0 +1,1 @@
+export const KEY_STORE = "TODOLIST_TUDEV";
